@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcelo1985-dev/api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcelo1985-dev/api/issues"
+  },
+  "homepage": "https://github.com/Marcelo1985-dev/api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
